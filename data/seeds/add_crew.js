@@ -10,6 +10,11 @@ exports.seed = function (knex) {
           position: "Captain",
           job_description: "Captain of the Zissou Crew",
         },
+        {
+          name: "Ned Plimpton (Kingsley Zissou)",
+          position: "Son",
+          job_description: "Assists with filming and action shots",
+        },
       ]);
     });
 };
